@@ -1,4 +1,4 @@
-// var ip = "http://47.105.71.26:8080"     //测
+﻿// var ip = "http://47.105.71.26:8080"     //测
 var ip1 = "http://192.168.58.12:8080"       //奇
 // var ip = "http://47.92.124.231:8080"  
 
@@ -19,3 +19,5 @@ var ImgIp = "http://47.105.71.26:9999"
 var URL = "http://192.168.58.10:8080"
 
 var token = sessionStorage.getItem("token")
+
+var test
